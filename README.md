@@ -106,7 +106,3 @@ $ make
 $ ./minishell
 
 ```
-<p align="center">
-<img width="500px" src="./bighell.png?raw=true" />
-</p>
-&#xa0;
