@@ -3,7 +3,7 @@
 
 <p align="center">
 
- <img alt="Github top language" src="https://img.shields.io/badge/C%20-95.8%25-brightgreen">
+ <img alt="Github top language" src="https://img.shields.io/badge/c-97.0%25-brightgreen">
 
   <img alt="Github language count" src="https://img.shields.io/badge/languages-2-brightgreen">
 
