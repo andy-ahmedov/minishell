@@ -13,9 +13,7 @@
 </p>
 
 <p align="center">
-
  <img alt="School21_profile" src="https://badge42.vercel.app/api/v2/clfroilq2010708mcz522te2p/stats?cursusId=21&coalitionId=92">
-
 </p>
 
 <p align="center">
