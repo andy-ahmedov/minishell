@@ -108,5 +108,4 @@ $ make
 
 # Run the project
 $ ./minishell
-
 ```
