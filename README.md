@@ -23,7 +23,6 @@
   <a href="#starting">Starting</a>
 </p>
 
-
 ![minishell](https://i.imgur.com/z40TNtL.jpeg)
 
 ## About ##
